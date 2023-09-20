@@ -6,18 +6,20 @@ hope you find them useful too.
 ## Installation
 
 ```bash
-git clone https://github.com/danielcgiraldo/utilities.git
-cd utilities
+    $ git clone https://github.com/danielcgiraldo/utilities.git
+    $ cd utilities
 ```
 
 ## Usage
 
-```bash
-```
+Please refer to every utility's README.md file for usage instructions.
 
-## List
+## List of utilities
 
-- [x] [gitignore](gitignore/README.md)
+- Files:
+  - [enumerate](files/enumerate/README.md)
+  - [images]
+    - [compress to webp](files/images/compress_to_webp/README.md)
 
 ## Contributing
 
