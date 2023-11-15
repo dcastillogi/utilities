@@ -21,7 +21,8 @@ Please refer to every utility's README.md file for usage instructions.
 ## List of utilities
 
 - Files: Utilities to work with files
-  - [enumerate](files/enumerate/README.md): Enumerate from 1 a list of files in a directory
+  - [enumerate](files/enumerate/README.md): Enumerate from 1 to n, n files in a directory
+  - [qr](files/qr/README.md): Generate QR codes from a list of strings
   - Images: Utilities to work with images
     - [compress to webp](files/images/compress_to_webp/README.md): Compress and resize images to webp format
 
